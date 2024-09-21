@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="h-screen flex items-center justify-center">
       <Routes>
-        <Route path="/" element={<MainPage />} />
+        <Route path="*" element={<MainPage />} />
         <Route path="/card/:id" element={<CardPage />} />
       </Routes>
     </div>

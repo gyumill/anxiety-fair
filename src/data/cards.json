@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "text": "Na predavanju sam na fakultetu",
+    "thoughts": [
+      {
+        "text": "Zakasniću na predavanje",
+        "checked": false
+      },
+      {
+        "text": "Prozvaće me da odgovorim na pitanje",
+        "checked": false
+      },
+      {
+        "text": "Moram da kažem \"tu\" kada me bude prozvao profesor",
+        "checked": true
+      },
+      {
+        "text": "Moraćemo da se predstavimo",
+        "checked": false
+      },
+      {
+        "text": "Neće biti niko s kim se družim",
+        "checked": false
+      },
+      {
+        "text": "Biću žedna, a neću imati vode",
+        "checked": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Nalazim se sa drugaricom u kafiću",
+    "thoughts": [
+      {
+        "text": "Biće neko koga poznajem u kafiću",
+        "checked": true
+      },
+      {
+        "text": "Konobar nas neće primetiti",
+        "checked": false
+      },
+      {
+        "text": "Konobar me neće razumeti kad budem naručivala",
+        "checked": true
+      },
+      {
+        "text": "Neću imati dovoljna para",
+        "checked": false
+      },
+      {
+        "text": "Dobiću pogrešno piće",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Idem na ispit na fakultetu",
+    "thoughts": [
+      {
+        "text": "Pokvariće se tramvaj",
+        "checked": false
+      },
+      {
+        "text": "Neću naći salu",
+        "checked": false
+      },
+      {
+        "text": "Biću jedina na ispitu",
+        "checked": false
+      },
+      {
+        "text": "Biću neprijatna",
+        "checked": true
+      },
+      {
+        "text": "Neću imati sve što je trebalo za ispit",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Putujem sutra na odmor",
+    "thoughts": [
+      {
+        "text": "Zaboraviću pasoš",
+        "checked": false
+      },
+      {
+        "text": "Pištaću na kontroli",
+        "checked": false
+      },
+      {
+        "text": "Srušiće se avion",
+        "checked": false
+      },
+      {
+        "text": "Zaboraviću nesšto važno kući",
+        "checked": true
+      },
+      {
+        "text": "Oduzeće mi nešto iz torbe",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Vozim se u prevozu",
+    "thoughts": [
+      {
+        "text": "Lupiće me vrata dok budem ulazila u tramvaj",
+        "checked": false
+      },
+      {
+        "text": "Napašće me neko u prevozu",
+        "checked": false
+      },
+      {
+        "text": "Zapaliće se tramvaj",
+        "checked": false
+      },
+      {
+        "text": "Ućiće kontrola",
+        "checked": false
+      },
+      {
+        "text": "Tramvaj će skliznuti sa šina",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ulazim u svoju zgradu",
+    "thoughts": [
+      {
+        "text": "Neko će ući iza mene",
+        "checked": false
+      },
+      {
+        "text": "Srešću komšiju u zgradi",
+        "checked": true
+      },
+      {
+        "text": "Neko će me napasti iza lifta",
+        "checked": false
+      },
+      {
+        "text": "Moraću da delim lift sa nekim",
+        "checked": true
+      },
+      {
+        "text": "Lift će se zaglaviti",
+        "checked": false
+      }
+    ]
+  }
+]

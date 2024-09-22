@@ -6,7 +6,7 @@ export default function BackButton({ onClick }: BackButtonProps) {
   return (
     <button
       onClick={onClick}
-      className="absolute bottom-5 left-5 p-1 rounded-md hover:bg-neutral-700"
+      className="absolute bottom-5 left-5 p-1 rounded-md hover:bg-neutral-800"
     >
       <svg
         id="Layer_2"

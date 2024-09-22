@@ -8,8 +8,8 @@ type FrameComponentProps = {
 export default function FrameComponent({ text, onClick }: FrameComponentProps) {
   return (
     <div
-      className={`relative block h-52 rounded-3xl text-white ${
-        onClick ? "cursor-pointer hover:bg-neutral-700" : ""
+      className={`relative block rounded-3xl text-white ${
+        onClick ? "cursor-pointer hover:bg-neutral-800" : ""
       }`}
       onClick={onClick}
     >

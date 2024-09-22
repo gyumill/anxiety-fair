@@ -22,12 +22,14 @@ export default function CardPage() {
   ).length;
 
   return (
-    <div className="relative h-full w-full flex flex-col justify-center items-center">
+    <div className="relative h-full w-full flex flex-col justify-center items-center p-5">
       <BackButton onClick={() => navigate("..")} />
-      <FrameComponent text={card.text} />
+      <div className="w-full max-w-md">
+        <FrameComponent text={card.text} />
+      </div>
       <div className="mt-20 p-5 rounded border-white border">
         <p className="text-xl border-b border-dashed border-white mb-8">
-          Račun strašnih misli:{" "}
+          Račun strašnih misli:
         </p>
         <div className="">
           {card.thoughts?.map((thought) => (
